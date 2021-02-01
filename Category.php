@@ -64,9 +64,9 @@ class Category
         return $this->name;
     }
 
-    public function getDescription() {
-        return $this->description;
-    }
+    // public function getDescription() {
+    //     return $this->description;
+    // }
 
     public function getPhoto() {
         return $this->photo;
